@@ -1,5 +1,12 @@
 # Tips for coaching at Rails Girls
 
+I wrote this short guide for mentors instead of students. There are two reasons:
+
+1. When learners read a tutorial, they concentrate on the text and it's hard to have a group discussion
+2. Everyone has their unique teaching style. I give one example here, but you may present the material in a different way or teach something else entirely.
+
+Some people in your group will grasp concepts faster than others. Have them explain to their peers what they have understood in their own words. They won't get bored and you will discover ways to present that you hadn't considered. This will also encourage them to work as a team.
+
 ## Installation
 
 The fastest way to get started with Ruby on Windows is to download and run [RubyInstaller](http://rubyinstaller.org/downloads/). You want the latest available version.
