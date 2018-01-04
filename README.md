@@ -27,7 +27,7 @@ You also want a text editor. Install [Atom](https://atom.io/).
 
 Even though the event is called Rails Girls, getting started with Rails out of the blue is ill-advised for complete beginners. If you are coaching a more advanced group, go ahead and install rails through the "Command prompt with Ruby":
 
-````
+```
 gem install rails
 ```
 
